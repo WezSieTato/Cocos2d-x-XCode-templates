@@ -7,7 +7,7 @@
  *
  */
 
-#import "___FILEBASENAME___.h"
+#include "___FILEBASENAME___.h"
 
 #include "SimpleAudioEngine.h"
 using namespace CocosDenshion;
