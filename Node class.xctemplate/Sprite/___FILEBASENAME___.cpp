@@ -16,14 +16,6 @@ ___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___() : ___VARIABLE_c
 {
 }
 
-Scene* ___FILEBASENAMEASIDENTIFIER___::createScene()
-{
-    Scene* scene = Scene::create();
-    ___FILEBASENAMEASIDENTIFIER___ *layer = ___FILEBASENAMEASIDENTIFIER___::create();
-    scene->addChild(layer);
-    return scene;
-}
-
 bool ___FILEBASENAMEASIDENTIFIER___::init()
 {
     if( !___VARIABLE_cocos2DXSubclass___::init() )
