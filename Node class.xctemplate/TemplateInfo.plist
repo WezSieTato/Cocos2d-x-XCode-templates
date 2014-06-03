@@ -9,7 +9,7 @@
 	<key>DefaultCompletionName</key>
 	<string>MyCocos2DXClass</string>
 	<key>Description</key>
-	<string>An Objective-C class, with a header that includes the &lt;Foundation/Foundation.h&gt; and &quot;cocos2d.h&quot; headers.</string>
+	<string>An c++ class inherit from Cocos2d-x Node, with a header that includes the &quot;cocos2d.h&quot; and &quot;cocos-ext.h&quot;</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
@@ -45,6 +45,6 @@
 	<key>SortOrder</key>
 	<string>1</string>
 	<key>Summary</key>
-	<string>An Objective-C class with a header</string>
+	<string>An C++ class with a header</string>
 </dict>
 </plist>
