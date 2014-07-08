@@ -12,12 +12,11 @@
 #define ___FILEBASENAMEASIDENTIFIER____H
 
 #include "cocos2d.h"
-using namespace cocos2d;
 #include <cocos-ext.h>
-using namespace extension;
 
 
-class ___FILEBASENAMEASIDENTIFIER___ : public ___VARIABLE_cocos2DXSubclass___{
+
+class ___FILEBASENAMEASIDENTIFIER___ : public cocos2d::___VARIABLE_cocos2DXSubclass___{
     
 public:
     ___FILEBASENAMEASIDENTIFIER___();

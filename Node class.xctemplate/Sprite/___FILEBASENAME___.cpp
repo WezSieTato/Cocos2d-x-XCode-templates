@@ -10,6 +10,8 @@
 #include "___FILEBASENAME___.h"
 
 #include "SimpleAudioEngine.h"
+using namespace cocos2d;
+using namespace extension;
 using namespace CocosDenshion;
 
 ___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___() : ___VARIABLE_cocos2DXSubclass___()

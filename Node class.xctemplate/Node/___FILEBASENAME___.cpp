@@ -11,6 +11,8 @@
 
 #include "SimpleAudioEngine.h"
 using namespace CocosDenshion;
+using namespace cocos2d;
+using namespace extension;
 
 ___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___() : ___VARIABLE_cocos2DXSubclass___()
 {
