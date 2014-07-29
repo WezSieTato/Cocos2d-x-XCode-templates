@@ -22,7 +22,7 @@ public:
     ___FILEBASENAMEASIDENTIFIER___();
     virtual bool init();
     CREATE_FUNC(___FILEBASENAMEASIDENTIFIER___);
-    static Scene* createScene();
+    static cocos2d::Scene* createScene();
     virtual ~___FILEBASENAMEASIDENTIFIER___();
     
 };
