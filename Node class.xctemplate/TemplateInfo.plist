@@ -4,7 +4,7 @@
 <dict>
 	<key>AllowedTypes</key>
 	<array>
-		<string>public.objective-c-source</string>
+		<string>public.c-plus-plus-source</string>
 	</array>
 	<key>DefaultCompletionName</key>
 	<string>MyCocos2DXClass</string>
