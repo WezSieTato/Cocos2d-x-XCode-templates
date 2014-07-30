@@ -8,8 +8,8 @@
  */
 
 
-#ifndef ___FILEBASENAMEASIDENTIFIER____H
-#define ___FILEBASENAMEASIDENTIFIER____H
+#ifndef _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
+#define _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
 
 #include "cocos2d.h"
 #include <cocos-ext.h>
@@ -27,4 +27,4 @@ public:
     
 };
 
-#endif //___FILEBASENAMEASIDENTIFIER____H
+#endif //_____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
